@@ -19,7 +19,7 @@
 1. Abrir  la consola de comandos de Git (Windows) o la Terminal en sistemas basados en Unix (Mac o Linux) y posicionare en el directorio raíz.
 2. Después Ejecutar el siguiente comando:  
 ```
-git clone https://github.com/Carlosvergara99/Prueba_practica.git
+git clone https://github.com/Carlosvergara99/prueba_tecnica
 ```
 .
 3. Luego debe ingresar a la carpeta del proyecto y ejecutar ejecuta el comando:
